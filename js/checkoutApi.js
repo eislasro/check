@@ -50,7 +50,7 @@ const postCheckout = async (products_info) => {
         "contactDetail": {
             "name": "Efren Islas"
         },
-        "redirectURL": "https://eislasro.github.io/kushkise",
+        "redirectURL": "https://eislasro.github.io/check/",
         "products": products_info.products,
         "paymentConfig": {
             "amount": {
